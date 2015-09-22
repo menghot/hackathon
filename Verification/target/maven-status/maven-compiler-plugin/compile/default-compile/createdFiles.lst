@@ -1,0 +1,7 @@
+com\verify\main\interfaze\Verifier.class
+com\verify\main\entity\Report.class
+com\verify\main\util\XpathUtil.class
+com\verify\main\VerificationApplication.class
+com\verify\main\entity\Alert.class
+com\verify\main\service\VerifyService.class
+com\verify\main\interfaze\Verifier$Result.class
